@@ -1,0 +1,9 @@
+body{
+	margin:0;
+	padding:0;
+}
+.wraper{
+	margin-top: 50px;
+	width: 365px;
+	min-height: 300px;
+}
